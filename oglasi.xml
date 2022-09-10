@@ -1,3 +1,23 @@
-skjfasinfgiasjlf asd
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE Oglasi SYSTEM "oglasi.dtd"> -->
+<!-- <Oglasi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="oglasi.xsd"> -->
+ <Oglasi>
+    <Oglas>
+        <Kategorija>Stanovi</Kategorija>
+        <DatumIstekaOglasa>14.09.2023.</DatumIstekaOglasa>
+        <Cena valuta="din">4200000</Cena>
+        <TekstOglasa>Tekst</TekstOglasa>
+        <TagoviOglasa>
+            <Tag>Tag</Tag>
+            <Tag>Tag</Tag>
+            <Tag>Tag</Tag>
+        </TagoviOglasa>
+        <Prodavac>
+            <ElektronskaPosta tip="sluzbena">petars@hotmail.com</ElektronskaPosta>
+            <ElektronskaPosta tip="privatna">stojkovicp@gmail.com</ElektronskaPosta>
+            <ElektronskaPosta tip="sluzbena">marijam@yahoo.com</ElektronskaPosta>
+            <ElektronskaPosta tip="privatna">milkovm@gmail.com</ElektronskaPosta>
+        </Prodavac>
+    </Oglas>
+</Oglasi>
